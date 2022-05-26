@@ -1,0 +1,1 @@
+g++ -m32 main.cpp -o main -I"C:\raylib\w64devkit\i686-w64-mingw32\include" -L"C:\raylib\raylib\src" -lraylib -lopengl32 -lgdi32 -lwinmm 
