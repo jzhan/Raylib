@@ -3,3 +3,7 @@ g++ -m32 main.cpp -o main -I"C:\raylib\w64devkit\i686-w64-mingw32\include" -L"C:
 or
 
 g++ main.cpp -L"C:\Users\jzhan\Desktop\Raylib\lib" -lraylib -lopengl32 -lgdi32 -lwinmm
+
+Reference to compile Raylib source code
+
+https://www.youtube.com/watch?v=anEqFr8sJnA&t=176s
